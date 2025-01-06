@@ -1,0 +1,21 @@
+theme = dark:rose-pine, light:rose-pine-dawn
+# theme = zenbones_light
+# font-family = Iosevka Extended 
+font-family = Roboto Mono
+font-size = 10.5
+# custom-shader = shaders/bloom.glsl
+mouse-hide-while-typing = true
+window-decoration = false
+adw-toolbar-style = flat
+bold-is-bright = true
+window-padding-x = 5
+background-opacity = 0.7
+gtk-wide-tabs = false
+window-theme = ghostty
+
+
+#Keybinds
+keybind = alt+n=new_tab
+keybind = alt+[=previous_tab
+keybind = alt+]=next_tab
+keybind = alt+q=close_surface
